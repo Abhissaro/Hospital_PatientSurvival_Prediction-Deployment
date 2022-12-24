@@ -15,4 +15,5 @@ The task is to classify this variable based on the other 84 features step-by-ste
 
 The scoring metric is Accuracy/Area under ROC curve.
 
+https://hospital-patient-survival-prediction.onrender.com/
 (Go through this link )(Deploy an app using streamlit cloud)
