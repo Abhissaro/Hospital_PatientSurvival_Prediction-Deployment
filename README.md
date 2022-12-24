@@ -15,4 +15,4 @@ The task is to classify this variable based on the other 84 features step-by-ste
 
 The scoring metric is Accuracy/Area under ROC curve.
 
-https://share.streamlit.io/suwarna93/patient-survival-prediction/main/app.py (Go through this link )(Deploy an app using streamlit cloud)
+(Go through this link )(Deploy an app using streamlit cloud)
