@@ -17,7 +17,7 @@ The scoring metric is Accuracy/Area under ROC curve.
 
 [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://hospital-patient-survival-prediction.onrender.com/)
 https://hospital-patient-survival-prediction.onrender.com/
-(Go through this link )(Deploy an app using streamlit cloud)
+(Go through this link )(Deploy an app using onrender cloud)
 
 ### Steps taken to solve the problem:
 
