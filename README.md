@@ -15,5 +15,16 @@ The task is to classify this variable based on the other 84 features step-by-ste
 
 The scoring metric is Accuracy/Area under ROC curve.
 
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://hospital-patient-survival-prediction.onrender.com/)
 https://hospital-patient-survival-prediction.onrender.com/
 (Go through this link )(Deploy an app using streamlit cloud)
+
+### Steps taken to solve the problem:
+
+1) Handled Missing Values using Mean and Mode techniques
+2) EDA of the dataset to find distributions and relations of features 
+3) Label Encoder for converting target values to numeric forms
+4) Feature selection using mutual_info_classif
+5) Baseline modeling using neural network - `accuracy: 92.02`
+6) Fine tuned neural network - `accuracy: 92.93`
+7) Explainable AI usign shap Kernel explainer
